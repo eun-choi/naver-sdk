@@ -5,13 +5,12 @@ link: https://github.com/raccoondev85/cordova-plugin-naver-sdk
 ## Development Environment and ETC
 |type|version
 |---|---
-|ionic (Ionic CLI)|3.19.1
-|cordova (Cordova CLI)|8.0.0
-|Cordova Platforms Android|6.4.0
-|Cordova Platforms IOS|4.5.4
-|Ionic Framework|ionic-angular 3.9.2
-|NaverThirdPartyLogin.framework(ios)|4.0.9
-|naveridlogin-android-sdk(android)|4.2.0
+|ionic (Ionic CLI)|5.4.16
+|cordova (Cordova CLI)|9.0.0
+|Cordova Platforms Android|8.1.0
+|Cordova Platforms IOS|5.1.1
+|NaverThirdPartyLogin.framework(ios)|4.1.2
+|naveridlogin-android-sdk(android)|4.2.6
 
 ## How to install
 install cordova plugin
@@ -98,7 +97,3 @@ Get current access token.
 ```
 it returns the current access token.
 
-
-## TO-DO
-Current NaverThirdPartyLogin Library does not officially support types of authentication to log-in, but they do have some logics inside their libary to pop up the webview to login if the Naver app was not installed. 
-So next coming up release will take care of giving the login authentication options in order for users to select whether they want login through the Naver app or the webview.
