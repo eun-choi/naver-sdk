@@ -4,7 +4,7 @@
   "description": "Naver Cordova SDK Wrapper",
   "module": "index.js",
   "typings": "index.d.ts",
-  "author": "eun-choi",
+  "author": "eunchoi",
   "license": "MIT",
   "peerDependencies": {
     "@ionic-native/core": "^5.36.0",

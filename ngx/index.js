@@ -44,7 +44,7 @@ var NaverCordovaSDK = /** @class */ (function(_super) {
     NaverCordovaSDK.pluginName = 'Naver Cordova SDK Plugin';
     NaverCordovaSDK.plugin = 'cordova-plugin-naver-sdk';
     NaverCordovaSDK.pluginRef = 'NaverCordovaSDK';
-    NaverCordovaSDK.repo = 'https://github.com/raccoondev85/cordova-plugin-naver-sdk';
+    NaverCordovaSDK.repo = 'https://github.com/eun-choi/cordova-plugin-naver-sdk';
     NaverCordovaSDK.platforms = ['Android', 'iOS'];
     NaverCordovaSDK = __decorate([
         Injectable()
